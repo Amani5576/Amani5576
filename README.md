@@ -9,6 +9,7 @@ One of my first projects was to work with fit files and extract temperature read
 📫 How to reach me:
 
 -email: smmnjoroge@gmail.com
+
 -Phone No: +27 66 109 4789 or +254 769 194 234
    
 <!---
