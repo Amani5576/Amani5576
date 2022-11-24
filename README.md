@@ -8,9 +8,9 @@ One of my first projects was to work with fit files and extract temperature read
 
 📫 How to reach me:
 
--email: smmnjoroge@gmail.com
+     - Email: smmnjoroge@gmail.com
 
--Phone No: +27 66 109 4789 or +254 769 194 234
+     - Phone No: +27 66 109 4789 or +254 769 194 234
    
 <!---
 Amani5576/Amani5576 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
