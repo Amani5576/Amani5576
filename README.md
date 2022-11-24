@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Amani5576
 - 👀 I’m interested in space science and astrophysics related research
-- 🌱 I’m currently learning python and C++ as I 
+- 🌱 I’m currently learning python and C++. 
+
+One o my first projects was to work with fit files and extract temeperature readings from free data on NGC 3576 emission nebula.
 - 📫 How to reach me:
     email: smmnjoroge@gmail.com
     Phone No: +27 66 109 4789 or +254 769 194 234
