@@ -2,7 +2,7 @@
 
 👀 I’m interested in space science and astrophysics related research
 
-🌱 I’m currently learning python and C++. 
+🌱 I’m currently learning python and C.
 
 One of my first projects was to work with fit files and extract temperature readings from free data on NGC 3576 emission nebula.
 
