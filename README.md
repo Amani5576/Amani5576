@@ -1,19 +1,12 @@
-👋 Hi, I’m @Amani5576
+👋 Hi, I’m Amani.
 
-👀 I’m interested in space science and astrophysics related research
+🌌 I have a keen interest in space science and astrophysics research.
 
-🌱 I’m currently learning python and C.
+💻 Currently, I'm enhancing my skills in Python and C programming languages.
 
-One of my first projects was to work with fit files and extract temperature readings from free data on NGC 3576 emission nebula.
+🔬 One of my early projects involved working with FITS files to extract temperature readings from publicly available data on the NGC 3576 emission nebula.
 
-📫 How to reach me:
-
-     - Email: 
-          smmnjoroge@gmail.com
-
-     - Phone No: 
-          +27 66 109 4789
-          +254 769 194 234
+📫 Feel free to reach out to me: smmnjoroge@gmail.com
    
 <!---
 Amani5576/Amani5576 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
