@@ -1,14 +1,9 @@
-👋 Hi, I’m Amani.
+## 👋 Hi, I’m Amani  
 
-🌌 I have a keen interest in space science and astrophysics research.
+🌌 I am an aspiring radio astronomer with a passion for uncovering the mysteries of the cosmos.  
 
-💻 Currently, I'm enhancing my skills in Python and C programming languages.
+📚 Currently, I am enrolled in the National Astrophysics and Space Science Program (NASSP) at the University of Cape Town (UCT). My research focuses on imaging and analyzing polarized radio continuum emission around nearby galaxies.  
 
-🔬 One of my early projects involved working with FITS files to extract temperature readings from publicly available data on the NGC 3576 emission nebula.
+💻 I primarily work with Python to process and analyze astronomical data.  
 
-📫 Feel free to reach out to me: smmnjoroge@gmail.com
-   
-<!---
-Amani5576/Amani5576 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Feel free to reach out: **NJRSAM003@myuct.ac.za**  
